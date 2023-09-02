@@ -1,3 +1,4 @@
 Red Hat Certified System Administrator
+Red Hat Certified Architect
 Red Hat Certifeid Engineer
 
